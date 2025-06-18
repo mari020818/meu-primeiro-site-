@@ -1,2 +1,8 @@
 <!DOOTYPE html>
 <html lang= "pt-BR">
+<head>
+<Metaeta charset="UTF-8">
+<meta name= "viewport" content="widht=device=width,initial-scale=1.0">
+<title>Meu primeiro site</title>
+<link rel="stylesheet" href=" style.css">
+</head>
